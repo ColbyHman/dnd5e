@@ -9,7 +9,7 @@
   },
   "url": "https://github.com/foundryvtt/dnd5e/",
   "manifest": "https://raw.githubusercontent.com/ColbyHman/dnd5e/3.2/system.json",
-  "download": "https://github.com/ColbyHman/dnd5e/archive/refs/tags/3.2.zip",
+  "download": "https://github.com/ColbyHman/dnd5e/archive/refs/tags/dnd5e-3.2.zip",
   "authors": [
     {
       "name": "Atropos",
