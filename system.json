@@ -8,8 +8,8 @@
     "verified": "12"
   },
   "url": "https://github.com/foundryvtt/dnd5e/",
-  "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
-  "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-3.2.0/dnd5e-release-3.2.0.zip",
+  "manifest": "https://raw.githubusercontent.com/ColbyHman/dnd5e/3.2/system.json",
+  "download": "https://github.com/ColbyHman/dnd5e/archive/refs/tags/3.2.zip",
   "authors": [
     {
       "name": "Atropos",
